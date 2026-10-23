@@ -10,8 +10,9 @@
 
 ##  Project Live Demonstration
 ## 📺 Project Live Demonstration
-<video src="<img width="947" height="461" alt="image" src="https://github.com/user-attachments/assets/97b84c94-3658-4d5a-bf51-c6c012048549" />"
-controls width="100%" poster=""></video>
+## 📺 Project Live Demonstration
+
+<video src="https://githubusercontent.com" controls width="100%" poster=""></video>
 
 
 ---
