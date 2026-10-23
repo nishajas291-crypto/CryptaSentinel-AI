@@ -85,6 +85,8 @@ mkdir crypta_sentinel
 cd crypta_sentinel
 python -m venv venv
 .\venv\Scripts\Activate.ps1
+https://github.com/nishajas291-crypto/CryptaSentinel-AI.git
+
 
 # Install core dependencies
 pip install langgraph fastapi uvicorn google-generativeai pydantic cryptography
