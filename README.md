@@ -10,9 +10,6 @@
 
 ##  Project Live Demonstration
 ## 📺 Project Live Demonstration
-## 📺 Project Live Demonstration
-
-<video src="https://githubusercontent.com" controls width="100%" poster=""></video>
 
 
 ---
