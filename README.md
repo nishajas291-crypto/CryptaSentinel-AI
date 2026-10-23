@@ -3,7 +3,7 @@
 
 ---
 
-## Project Overview & Core Architecture
+## 🎯 Project Overview & Core Architecture
 CryptaSentinel AI is an inline, low-latency runtime security proxy gateway built to stop "Decryption-Triggered Prompt Injections" in autonomous data pipelines across cross-border enterprise ecosystems.
 
 Modern corporate infrastructures across global markets like the USA and India use advanced encryption standards (such as AES-256 or secure blockchain-based ledgers) to protect data-at-rest. Traditional boundary security tools like Next-Gen Firewalls and Data Loss Prevention (DLP) engines inspect these files strictly in their encrypted state. Because encrypted ciphertext naturally mirrors uniform random noise, it passes through perimeter filters into the secure network zone as safe.
@@ -90,7 +90,7 @@ The microsecond a threat pattern is confirmed, the stateful LangGraph pipeline e
 
 ---
 
-## 💻 Windows Setup & Local Deployment Guide
+##  Windows Setup & Local Deployment Guide
 
 ### 1. Initialize System Workspace & Virtual Environment
 Open your **Windows PowerShell** window and run the installation commands:
@@ -123,7 +123,7 @@ uvicorn main:app --host 127.0.0.1 --port 8080 --reload
 
 ---
 
-##  Empirical Validation Scenarios (Swagger UI Testing)
+## 🔬 Empirical Validation Scenarios (Swagger UI Testing)
 Once the server boots up, navigate to the local testing dashboard at: **`http://127.0.0`**
 
 ### Test Case 1: Normalized Ledger Processing
