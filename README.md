@@ -72,7 +72,7 @@ Standard transaction files center within a predictable metric ($3.5 \le H(X) \le
 The decrypted text stream is split into blocks and scanned against a validation matrix. If directive fragments like `SYSTEM OVERRIDE` or `transfer funds` match alongside an elevated entropy score, the state updates to alert downstream nodes.
 
 ### 3. Node 3: Atomic Context Flush & Tool Isolation
-The microsecond a threat pattern is confirmed, the stateful LangGraph pipeline executes dynamic mitigation. It completely purges the allocated core memory space ($P \leftarrow \text{"WIPED\_0x000000"}$), sets the status to `HARD_LOCKED`, and cuts off downstream tool execution paths, disabling dangerous transaction pipelines before any APIs can fire.
+The microsecond a threat pattern is confirmed, the stateful LangGraph pipeline executes dynamic mitigation. It completely purges the allocated core memory space ($P \leftarrow \text{"WIPED\_0x000000"}$),    sets the status to `HARD_LOCKED`, and cuts off downstream tool execution paths, disabling dangerous transaction pipelines before any APIs can fire.
 
 ---
 
