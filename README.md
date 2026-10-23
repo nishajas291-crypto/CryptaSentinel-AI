@@ -98,7 +98,7 @@ uvicorn main:app --host 127.0.0.1 --port 8080 --reload
 
 ---
 
-## 🔬 Validation Testing Scenarios (`http://127.0.0`)
+## 🔬 Validation Testing Scenarios (`http://127.0.0`  OR `http://localhost:8080/docs`)
 
 ### Test Case 1: Normalized Processing Pass
 *   **Input Context Payload ($P$):** `"Invoice Ref #48920. Total local warehouse storage cost is 1200 USD."`
