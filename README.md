@@ -1,4 +1,4 @@
-# CryptaSentinel AI 🛡️
+# CryptaSentinel AI 
 ### Autonomous Runtime Proxy Gateway Mitigating Decryption-Triggered Prompt Injections
 
 **Author:** JasmineNisha H  
@@ -8,12 +8,12 @@
 
 ---
 
-## 📺 Project Live Demonstration
+##  Project Live Demonstration
 ![CryptaSentinel AI Runtime Protection Simulation](இங்கே_உங்களுடைய_டெமோ_வீடியோ_அல்லது_GIF_லிங்க்கை_பேஸ்ட்_செய்யவும்)
 
 ---
 
-## 🚨 The Security Blind Spot
+##  The Security Blind Spot
 Modern enterprise workflows encrypt business assets (such as invoices or B2B ledgers) to guarantee data safety. Traditional security tools like boundary firewalls or Data Loss Prevention (DLP) filters scan these assets only in their locked state. Because encrypted ciphertext naturally mimics uniform noise, static filters pass the payload as entirely clean.
 
 The vulnerability activates at runtime decryption:
@@ -23,7 +23,7 @@ The vulnerability activates at runtime decryption:
 
 ---
 
-## 🏗️ Technical Pipeline & System Flow
+##  Technical Pipeline & System Flow
 
 ```text
     [ Encrypted Ciphertext Payload ]
@@ -72,11 +72,12 @@ Standard transaction files center within a predictable metric ($3.5 \le H(X) \le
 The decrypted text stream is split into blocks and scanned against a validation matrix. If directive fragments like `SYSTEM OVERRIDE` or `transfer funds` match alongside an elevated entropy score, the state updates to alert downstream nodes.
 
 ### 3. Node 3: Atomic Context Flush & Tool Isolation
-The microsecond a threat pattern is confirmed, the stateful LangGraph pipeline executes dynamic mitigation. It completely purges the allocated core memory space ($P \leftarrow \text{"WIPED\_0x000000"}$),    sets the status to `HARD_LOCKED`, and cuts off downstream tool execution paths, disabling dangerous transaction pipelines before any APIs can fire.
+The microsecond a threat pattern is confirmed, the stateful LangGraph pipeline executes dynamic mitigation. It completely purges the allocated core memory space ($P \leftarrow \text{WIPED\_0x000000}$), sets the status to `HARD_LOCKED`, and cuts off downstream tool execution paths, disabling dangerous transaction pipelines before any APIs can fire.
+
 
 ---
 
-## 💻 Setup & Deployment Guide (Windows PowerShell)
+##  Setup & Deployment Guide (Windows PowerShell)
 
 ```powershell
 # Create project environment
