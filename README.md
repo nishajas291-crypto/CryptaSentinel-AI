@@ -11,7 +11,7 @@
 ##  Project Live Demonstration
 
 ---
-[Watch theLive Demonstration](https://1drv.ms/v/c/c560035e76d1f623/IQBFLWcdyb93SJ0crsxagYQVAec-SBKERWYMcbACH9K1m3w)
+[Watch the Live Demonstration](https://1drv.ms/v/c/c560035e76d1f623/IQBFLWcdyb93SJ0crsxagYQVAec-SBKERWYMcbACH9K1m3w)
 
 ##  The Security Blind Spot
 Modern enterprise workflows encrypt business assets (such as invoices or B2B ledgers) to guarantee data safety. Traditional security tools like boundary firewalls or Data Loss Prevention (DLP) filters scan these assets only in their locked state. Because encrypted ciphertext naturally mimics uniform noise, static filters pass the payload as entirely clean.
