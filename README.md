@@ -10,7 +10,8 @@
 
 ##  Project Live Demonstration
 ## 📺 Project Live Demonstration
-<video src="https://github.com/nishajas291-crypto/CryptaSentinel-AI/blob/main/Agent_Security_Live_Validation.mp4.mp4" controls width="100%" poster=""></video>
+<video src="<img width="947" height="461" alt="image" src="https://github.com/user-attachments/assets/97b84c94-3658-4d5a-bf51-c6c012048549" />"
+controls width="100%" poster=""></video>
 
 
 ---
